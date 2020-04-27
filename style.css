@@ -71,23 +71,6 @@ nav ul li:hover>a{
 }
 /* cyndzel */
 
-.up{
-  position: fixed;
-  width: 5vh;
-  height: 5vh;
-  background-color: #E08119;
-  top: 0vh;
-  left: 31.8vh;
-  transition: 1s;
-}
-
-
-.up:hover{
-  top: 10vh;
-}
-.up:hover +nav{
-  top:0vh;
-}
 
 
 
