@@ -16,7 +16,7 @@ body{
 /* nawigacja */
  nav {
    position: fixed;
-   top:-10vh;
+   top:0vh;
    left: 50%;
   transform: translateX(-50%);
   width: 60vw;
